@@ -1,2 +1,2 @@
 # HR-Analysis
-Del conjunto de datos de Kaggle, trabajé en limpieza, normalización de datos, análisis descriptivo usando librerías Pandas, Numpy, Matplotlib.
+From the Kaggle dataset, I worked on cleaning, data normalization, descriptive analysis using Pandas, Numpy, Matplotlib libraries.
